@@ -1,0 +1,11 @@
+/Users/xaviercarty/HelloWorld/CoinFlip/obj/Debug/netcoreapp2.2/CoinFlip.csprojAssemblyReference.cache
+/Users/xaviercarty/HelloWorld/CoinFlip/obj/Debug/netcoreapp2.2/CoinFlip.csproj.CoreCompileInputs.cache
+/Users/xaviercarty/HelloWorld/CoinFlip/obj/Debug/netcoreapp2.2/CoinFlip.AssemblyInfoInputs.cache
+/Users/xaviercarty/HelloWorld/CoinFlip/obj/Debug/netcoreapp2.2/CoinFlip.AssemblyInfo.cs
+/Users/xaviercarty/HelloWorld/CoinFlip/bin/Debug/netcoreapp2.2/CoinFlip.deps.json
+/Users/xaviercarty/HelloWorld/CoinFlip/bin/Debug/netcoreapp2.2/CoinFlip.runtimeconfig.json
+/Users/xaviercarty/HelloWorld/CoinFlip/bin/Debug/netcoreapp2.2/CoinFlip.runtimeconfig.dev.json
+/Users/xaviercarty/HelloWorld/CoinFlip/bin/Debug/netcoreapp2.2/CoinFlip.dll
+/Users/xaviercarty/HelloWorld/CoinFlip/bin/Debug/netcoreapp2.2/CoinFlip.pdb
+/Users/xaviercarty/HelloWorld/CoinFlip/obj/Debug/netcoreapp2.2/CoinFlip.dll
+/Users/xaviercarty/HelloWorld/CoinFlip/obj/Debug/netcoreapp2.2/CoinFlip.pdb
